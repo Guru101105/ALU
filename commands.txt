@@ -1,0 +1,26 @@
+winget install --id Git.Git -e --source winget
+cd D:\
+git --version
+cd ..
+D:
+git clone https://github.com/TinyTapeout/ttsky-verilog-template.git tinytapeout
+cd tinytapeout
+la
+ls
+dir
+src/
+cd src
+dir
+cd ..
+tree /f
+cd ..
+git clone https://github.com/josephsanthoshk/8bitalutinytapeout.git
+cd tinetapeout
+cd tinytapeout
+ cd D:\8bitalutinytapeout
+doskey /history > commands.txt
+dir
+ cd D:\tinytapeout
+git -version
+git status
+doskey /history > commands.txt
